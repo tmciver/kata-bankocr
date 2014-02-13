@@ -1,0 +1,2 @@
+(ns bankocr-kata.core)
+
